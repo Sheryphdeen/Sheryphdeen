@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sheryphdeen
 - 👀 I’m interested in CI/CD automation
-- 🌱 I’m currently learning DevOps 
+- 🌱 A playground
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me tcheryph@outlook.com
 
